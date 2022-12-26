@@ -1,17 +1,3 @@
-#! /usr/bin/python3
-################################################################################
-# Hubcom SD-WAN software - Ninjanet.
-# For more information go to https://hubcom.in
-#
-# Copyright (C) 2022  Hubcom Techno System LLP.
-#
-# This program is not free software: you cannot redistribute it and/or modify it under
-# the terms of the Hubcom Techno System LLP License as published
-# either version 3 of the License, or (at your option) any
-# later version.
-#
-################################################################################
-
 import yaml 
 import sqlite3
 from netaddr import IPAddress
